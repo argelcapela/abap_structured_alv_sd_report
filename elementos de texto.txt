@@ -1,0 +1,25 @@
+001	Relatório Controle de Pedidos e Remessas Filiais
+002	Ordem de Venda
+003	Tipo Documento
+004	Descrição
+005	Motivo da Ordem
+006	Recebedor da Mercadoria
+007	Nome
+008	Nome Médico
+009	Referência de Cliente
+010	Data Envio
+011	Remessa
+012	Material
+013	Número de Série
+014	Tabela
+015	não tem registros.
+016	Cabeçalho do Documento de Venda
+017	Item do Documento de Venda
+018	Texto de Classe de Documento de Venda
+019	Texto de Motivo de Documento de Venda
+020	Parceiros de Negócios em Documentos de Venda
+021	Mestre de Clientes (Geral)
+022	Fluxo de Documentos de Vendas e Distribuição
+023	Cabeçalho do documento p/os nºs de série do fornecimento
+024	Lista de objetos manutenção
+025	Relatório retornou nenhum valor
