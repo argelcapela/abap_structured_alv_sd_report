@@ -1,6 +1,6 @@
 # abap_first_alv: <br> Relatório Controle de Pedidos e Remessas Filiais
 
-## Objetivo
+## Especificação Funcional
 O objetivo da demanda é criar um relatório ALV onde as Filiais possam consultar Ordens de Vendas e Remessas criadas, com a data prevista para saída da remessa. Esse relatório é a nível de item (Número de Série), e deve conter os seguintes campos:
 
 
