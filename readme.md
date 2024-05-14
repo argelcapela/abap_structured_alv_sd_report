@@ -6,7 +6,9 @@ Relatório ALV Estruturado, Módulo SD, desenvolvido para consultar Ordens de Ve
 <a href=".readme/spec.md">Visualizar Especificação Funcional Completa</a>
 
 ## 📷 Preview
-<img src=".readme/tela_de_selecao.png" alt="Tela de Seleção Relatório ALV" width="600px">
+Tela de Seleção do Relatório ALV:<br><img src=".readme/tela_de_selecao.png" alt="Tela de Seleção Relatório ALV" width="600px">
+<br><br>
+Exemplo de Consulta no Relatório ALV:<br><img src=".readme/relatorio_alv_exemplo1.png" alt="Tela de Seleção Relatório ALV" width="600px">
 
 <br>
 
