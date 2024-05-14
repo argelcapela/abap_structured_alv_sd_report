@@ -1,5 +1,5 @@
 
-# abap_first_alv: <br> Relatório Controle de Pedidos e Remessas Filiais
+# Relatório Controle de Pedidos e Remessas Filiais
 
 ## Especificação Funcional
 O objetivo da demanda é criar um relatório ALV onde as Filiais possam consultar Ordens de Vendas e Remessas criadas, com a data prevista para saída da remessa. Esse relatório é a nível de item (Número de Série), e deve conter os seguintes campos:
@@ -82,7 +82,3 @@ Com VBFA-VBELN = SER01-LIEF_NR, buscar SER01-OBKNR
 ## Extra
  - Todos os campos devem possuir tradução para Português, Inglês e Espanhol, de acordo com o login do usuário.
  - HOTSPOT: Ao clicar nos dados das colunas Ordem de Venda, Recebedor da Mercadoria e Remessa. O relatório deve ser redirecionado para a transação de gerenciamento que corresponde a cada campo. VA03 Ordem de Venda, BP Recebedor da Mercadoria e VL03 Remessa. Direto para a tela de detalhes do item clicado.
-
- #### by Argel Capela
-
-
