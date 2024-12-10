@@ -10,16 +10,12 @@ Tela de Seleção do Relatório ALV:<br><img src=".readme/tela_de_selecao.png" a
 <br><br>
 Exemplo de Consulta no Relatório ALV:<br><img src=".readme/relatorio_alv_exemplo1.png" alt="Tela de Seleção Relatório ALV" width="600px">
 
-<br>
-
-<a href="https://youtu.be/hZGbBWXTuTE">Vídeo de Demonstração do abap_structured_alv_sd_report</a>
-
 ## 📚 Funcionalidades
 * Relatório SD (Ordens de Vendas e Remessas)
 * Hotspot: Ao clicar nas colunas Ordem de Venda, Recebedor da Mercadoria e Remessa redireciona-se para as transações correspondentes para gerenciamento da entidade que a informação da coluna apresenta.
 
 ## 🚀 Rodando o projeto
-<a href="https://github.com/argelcapela/abap_structured_alv_sd_report">Código Fonte no Github: abap_structured_alv_sd_report</a>
+
 
 1) Acesse a transação SE38, crie um programa chamado abap_structured_alv_sd_report e copie o código fonte do programa.
 2) Ainda na SE38, editando o programa criado anteriormente, acesse os elementos de texto do programa. Copie e cole os elementos de texto 1 e 2, nas seções de text elements e selection texts.
